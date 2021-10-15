@@ -14,6 +14,7 @@
 		CC11D7ED2711F86C00D25FD4 /* Passcode.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = CC11D7EB2711F86C00D25FD4 /* Passcode.xcdatamodeld */; };
 		CC11D7EF2711F86F00D25FD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC11D7EE2711F86F00D25FD4 /* Assets.xcassets */; };
 		CC11D7F22711F86F00D25FD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC11D7F02711F86F00D25FD4 /* LaunchScreen.storyboard */; };
+		CC11D7FA2718713B00D25FD4 /* changePasscodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC11D7F92718713B00D25FD4 /* changePasscodeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CC11D7EE2711F86F00D25FD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CC11D7F12711F86F00D25FD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC11D7F32711F86F00D25FD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC11D7F92718713B00D25FD4 /* changePasscodeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changePasscodeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				CC11D7E42711F86C00D25FD4 /* SceneDelegate.swift */,
 				CC11D7E62711F86C00D25FD4 /* ViewController.swift */,
 				CC11D7E82711F86C00D25FD4 /* Main.storyboard */,
+				CC11D7F92718713B00D25FD4 /* changePasscodeViewController.swift */,
 				CC11D7EE2711F86F00D25FD4 /* Assets.xcassets */,
 				CC11D7F02711F86F00D25FD4 /* LaunchScreen.storyboard */,
 				CC11D7F32711F86F00D25FD4 /* Info.plist */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CC11D7E72711F86C00D25FD4 /* ViewController.swift in Sources */,
+				CC11D7FA2718713B00D25FD4 /* changePasscodeViewController.swift in Sources */,
 				CC11D7E32711F86C00D25FD4 /* AppDelegate.swift in Sources */,
 				CC11D7E52711F86C00D25FD4 /* SceneDelegate.swift in Sources */,
 				CC11D7ED2711F86C00D25FD4 /* Passcode.xcdatamodeld in Sources */,
